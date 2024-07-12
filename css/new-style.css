@@ -25,7 +25,7 @@
 
 .video-style {
     display: block;
-    margin: 0 auto; 
+    margin: 0 auto;
  }
 
 .block_bottom{
@@ -76,12 +76,12 @@
     align-items: center;
     justify-content: center;
     text-decoration: none;
-    color: #2F956D;
+    color: #ff6a00;
     background-color: transparent;
   }
-  
+
   .sw_style_link.active,
   .sw_style_link:hover {
-    background-color: #2F956D;
+    background-color: #ff6a00;
     color: white;
   }
